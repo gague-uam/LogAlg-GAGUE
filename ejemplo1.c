@@ -3,7 +3,7 @@
 main()
 {
     printf("hola");
-    prinf("Mi nombre es: YO SOY");
+    printf("Mi nombre es: YO SOY");
    
 }
 
